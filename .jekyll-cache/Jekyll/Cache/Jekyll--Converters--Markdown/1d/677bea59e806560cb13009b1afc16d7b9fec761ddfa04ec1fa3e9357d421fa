@@ -1,0 +1,21 @@
+I"<h1 id="경로">경로</h1>
+<p>/dexsite <br /></p>
+<h1 id="변경-내역-확인">변경 내역 확인</h1>
+<p>$ git status <br /></p>
+<h1 id="전체-내역-추가">전체 내역 추가</h1>
+<p>$ add . <br /></p>
+<h1 id="재차-확인">재차 확인</h1>
+<p>$ git status <br /></p>
+<h1 id="push로-업데이트">push로 업데이트</h1>
+<p>$ git push -u origin master )<br /></p>
+
+<h1 id="rejected-오류-시">rejected 오류 시</h1>
+
+<p>이런 저런 이유가 있겠지만 <br />
+데이터 손실에 우려가 있어 방지 차 git 에서 오류를 출력한다고 . . <br /></p>
+<h1 id="강제-push">강제 push</h1>
+<p>$ git push -u origin +master 
+<br /><br /><br />
+어찌 됐건.. 푸시를 해낸 기념으로<br />
+같은 삽질을 반복하지 않기 위해 기록</p>
+:ET
